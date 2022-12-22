@@ -6,3 +6,68 @@ Neural Networks are a way of modeling biological neuron systems mathematically. 
 
 # DEEP LEARNING
  Deep Learning refers to neural networks with more than one hidden layer. These networks learn by discovering intricate structures in the data they experience.
+ 
+ # SUPERVISED LEARNING
+Machine is trainmed using well labeled training data and output is predicted on its basis. Main aim is to find mapping function to map input variable (x) with output variable (y).
+
+Supervised Learning is of two types: Regression and Classification
+
+1. REGRESSION: Used for predicting continuous variables like weather forecasting, market trends, etc.
+2. CLASSIFICATION: Used for predicting categorical variables like Email classification- Fraud or Not Fraud, etc.
+
+# SUPERVISED PROCESS
+1. Data Acquisition
+2. Data Cleaning
+3. Model Training and Building
+4. Test Data
+5. Model Testing
+6. Model Deployment
+
+# SPLITTING DATA
+Data is often split into 3 sets:
+1. Training Data - Used to train model parameters
+2. Validation Data - Used to determine what model hypermparameters to adjust 
+3. Test Data - Used to get final performance metric
+
+# OVERFITTING AND UNDERFITTING
+1. Overfitting - It is when the model fits too much to the noise from the data, and this often results in low error on training sets, but high error on test and validation sets.
+2. Underfitting - It is when a model does not capture the underlying trend of the data and does not fit the data well enough. This results in low variance, but high bias and is often the result of an excessively simple model.
+
+# EVALUATING PERFORMANCE METRICS - CLASSIFICATION
+Performance Metrics are used to evaluate how the model actually performed. The key classification metrics are: 
+ - Accuracy
+ - Recall
+ - Precision
+ - F1 score
+ 
+ Typically, in any classification task, a model can actually really only achieve two results: 
+  - The model was correct in its prediction
+  - The model was incorrect in its prediction
+  
+# EVALUATING PERFORMANCE METRICS - REGRESSION
+Some evaluation metrics for regression are:
+ - Mean Absolute Error
+ - Mean Squared Error
+ - Root Mean Square Error
+ 
+ 
+ # UNSUPERVISED LEARNING
+ Model is not trained using labels oor training data. The model itself finds hidden patterns and insights from the data. 
+ Unsupervised Learning is of two types: Clustering and Association
+
+1. REGRESSION: Used for grouping objects into clusters such that objects with most similar similarities remain in a single cluster.
+2. ASSOCIATION: Used for finding relationship between variables.
+
+# ANOMALY DETECTION
+It attempts to detect outliers in the data set, e.g. fraudulent transactions on a credit card would be anomalies, and we would like to detect those.
+
+# DIMENSIONALITY REDUCTION 
+It is a data processing technique that reduces the number of features in a dataset, either for the purposes of compression or to just better understand underlying trends within a dataset.
+
+# UNSUPERVISED PROCESS
+1. Data Acquisition
+2. Data Cleaning
+3. Model Training and Building
+4. Transformation
+5. Model Deployment
+
