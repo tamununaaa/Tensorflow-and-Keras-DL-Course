@@ -1,0 +1,9 @@
+# SUPERVISED LEARNING
+Machine is trainmed using well labeled training data and output is predicted on its basis. Main aim is to find mapping function to map input variable (x) with output variable (y).
+
+Supervised Learning is of two types: Regression and Classification
+
+1. REGRESSION: Used for predicting continuous variables like weather forecasting, market trends, etc.
+2. CLASSIFICATION: Used for predicting categorical variables like Email classification- Fraud or Not Fraud, etc.
+
+
