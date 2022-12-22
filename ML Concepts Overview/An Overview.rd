@@ -1,3 +1,0 @@
-WHAT IS MACHINE LEARNING
-Machine learning is a branch of Artificial Intelligence that focuses on the use of data and algorithms to learn and gradually improve its accuracy without the need to be explicitly programmed. Machine Learning is used in a number of fields like Fraud Detection, Credit Scoring, Customer Churn, Email Spam Filtering, Text Sentiment Analysis, Recommendation Engines, etc.
-
